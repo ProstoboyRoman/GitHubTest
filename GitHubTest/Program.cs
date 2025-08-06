@@ -12,6 +12,10 @@ namespace GitHubTest
         {
             Console.WriteLine("SUS");
             Console.WriteLine("GTAGAG");
+
+            Console.WriteLine("UGA");
+
         }
+
     }
 }
