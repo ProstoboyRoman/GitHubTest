@@ -12,6 +12,7 @@ namespace GitHubTest
         {
             Console.WriteLine("some changes");
             Console.WriteLine("I as master added some shit");
+            Console.WriteLine("Can i push to master?");
         }
 
     }
