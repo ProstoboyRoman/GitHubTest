@@ -10,9 +10,8 @@ namespace GitHubTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("some changes");
-            Console.WriteLine("I as master added some shit");
-            Console.WriteLine("Can i push to master?");
+            Console.WriteLine("weg mit dem Dreck!");
+            Console.WriteLine("can i pusch to this shit?");
         }
 
     }
