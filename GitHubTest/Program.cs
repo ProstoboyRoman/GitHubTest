@@ -11,6 +11,7 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("weg mit dem Dreck!");
+            Console.WriteLine("can i pusch to this shit?");
         }
 
     }
